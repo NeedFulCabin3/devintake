@@ -1,6 +1,6 @@
 # DevIntake
 
-A lightweight, accessible, and ready-to-deploy frontend intake form built specifically for agencies and teams onboarding freelance developers or contract engineers.
+A ready-to-deploy frontend intake form built specifically for agencies and teams onboarding freelance developers or contract engineers.
 
 This interface tackles the classic data-gathering phase cleanly. It skips heavy frameworks and relies on pure, semantic markup to maximize performance and maintain flexibility.
 
