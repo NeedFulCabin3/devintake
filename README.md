@@ -32,6 +32,7 @@ cd devintake
 # Open index.html in any desktop browser
 
 ## Project Structure
+
 ```bash
 devintake/
 ├── .gitignore              # Basic environment filter
@@ -39,6 +40,7 @@ devintake/
 ├── README.md               # Documentation
 └── style.css               # Grid systems and interface styling
 ```
+
 ## Roadmap
 [ ] Implement full stylesheet matching standard component UI frameworks.
 
